@@ -1,2 +1,25 @@
-#top_bar {
+a:link {
+  text-decoration: none; }
+
+a:visited {
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: underline; }
+
+.back_home {
+  background: url("./pic/google_bg.png");
+  background-position: 0 -35px;
+  background-size: 528px 68px;
+  height: 33px;
+  width: 92px; }
+
+.search_bar {
+  text-align: center; }
+
+.top_bar {
+  font-size: 0.8em;
   float: right; }
+
+div {
+  margin: 0em 1em 1em 1em; }
